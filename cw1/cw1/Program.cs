@@ -2,3 +2,5 @@
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, all");
 Console.WriteLine("Hello, mod2");
+Console.WriteLine("Hello, trzy");
+
